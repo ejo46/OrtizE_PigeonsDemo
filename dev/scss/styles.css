@@ -315,16 +315,13 @@ template {
     Typography
 ============= */
 h1 {
-  font-family: 'DM Serif Display', serif;
-  color: #1B1E4D; }
+  font-family: 'DM Serif Display', serif; }
 
 h2 {
-  font-family: 'Playfair Display', serif;
-  color: #1B1E4D; }
+  font-family: 'Playfair Display', serif; }
 
 h4, p {
-  font-family: 'Nanum Gothic', sans-serif;
-  color: #363636; }
+  font-family: 'Nanum Gothic', sans-serif; }
 
 /* =============
     Buttons
@@ -356,71 +353,19 @@ textarea {
 /* =============
     Breeds
 ============= */
-#breeds img {
-  position: relative;
-  width: 100%; }
-
 /* =============
     Facts
 ============= */
-#facts img {
-  position: relative;
-  width: 100%; }
-
-#facts h4 {
-  padding-left: 12px;
-  padding-right: 17px; }
-
-#facts p {
-  padding-left: 40px;
-  padding-right: 17px; }
-
-#facts {
-  padding-bottom: 29px; }
-
 /* =============
     Famous
 ============= */
-#famous img {
-  align-content: center; }
-
-#famous h2 {
-  text-align: center; }
-
 /* =============
     Hero
 ============= */
 #hero img {
   position: relative;
-  width: 100%; }
-
-#hero h2, p {
-  text-align: center;
-  padding-left: 37px;
-  padding-right: 37px;
-  padding-bottom: 30px; }
-
-#hero h2 {
-  padding-top: 20px;
-  font-size: 1.5625rem; }
-
-#hero p {
-  padding-top: -10px; }
+  width: 100px; }
 
 /* =============
    Intelligence
 ============= */
-#intelligence h2 {
-  padding-top: 30px;
-  padding-left: 47px;
-  padding-right: 47px;
-  text-align: center; }
-
-#intelligence p {
-  padding-left: 47px;
-  padding-right: 47px;
-  text-align: justify;
-  padding-bottom: 54px; }
-
-#intelligence {
-  background-color: #E2E2E2; }

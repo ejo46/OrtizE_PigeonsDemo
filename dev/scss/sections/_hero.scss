@@ -1,0 +1,23 @@
+/* =============
+    Hero
+============= */
+#hero img {
+  position: relative;
+  width: 100%;
+ }
+
+ #hero h2, p {
+   text-align: center;
+   padding-left: 37px;
+   padding-right: 37px;
+   padding-bottom: 30px;
+ }
+
+ #hero h2 {
+  padding-top: 20px;
+   font-size: rem-calc(25);
+ }
+
+ #hero p {
+   padding-top: -10px;
+ }

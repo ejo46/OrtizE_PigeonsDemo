@@ -1,3 +1,18 @@
 /* =============
     Typography
 ============= */
+
+h1 {
+font-family: 'DM Serif Display', serif;
+color: $purple;
+}
+
+h2 {
+font-family: 'Playfair Display', serif;
+color: $purple;
+}
+
+h4,p {
+font-family: 'Nanum Gothic', sans-serif;
+color: $darkgrey;
+}

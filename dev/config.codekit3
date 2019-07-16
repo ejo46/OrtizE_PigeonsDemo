@@ -19,6 +19,197 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/img/breeds/breeds.png": {
+		"ft": 32768,
+		"iS": 2203006,
+		"oA": 0,
+		"oAP": "/img/breeds/breeds.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/breeds/breedsinfo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/breeds/breedsinfo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/img/breeds/pigeonbreeds.png": {
+		"ft": 32768,
+		"iS": 2149365,
+		"oA": 0,
+		"oAP": "/img/breeds/pigeonbreeds.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/facts/coparent.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/facts/coparent.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/img/facts/factspigeon.png": {
+		"ft": 32768,
+		"iS": 1648097,
+		"oA": 0,
+		"oAP": "/img/facts/factspigeon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/facts/home.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/facts/home.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/img/facts/love.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/facts/love.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/img/facts/private.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/facts/private.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/img/facts/strong.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/facts/strong.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/img/famous/Elizabeth2.png": {
+		"ft": 32768,
+		"iS": 137126,
+		"oA": 0,
+		"oAP": "/img/famous/Elizabeth2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/famous/Gucci.png": {
+		"ft": 32768,
+		"iS": 139705,
+		"oA": 0,
+		"oAP": "/img/famous/Gucci.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/famous/Marlon.png": {
+		"ft": 32768,
+		"iS": 68779,
+		"oA": 0,
+		"oAP": "/img/famous/Marlon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/famous/Picasso.png": {
+		"ft": 32768,
+		"iS": 73813,
+		"oA": 0,
+		"oAP": "/img/famous/Picasso.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/famous/Presley.png": {
+		"ft": 32768,
+		"iS": 64347,
+		"oA": 0,
+		"oAP": "/img/famous/Presley.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/famous/Tyson.png": {
+		"ft": 32768,
+		"iS": 147681,
+		"oA": 0,
+		"oAP": "/img/famous/Tyson.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/footer/PigeonLogo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/img/footer/PigeonLogo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"/img/hero/why.png": {
+		"ft": 32768,
+		"iS": 132865,
+		"oA": 0,
+		"oAP": "/img/hero/why.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/img/hero/whypigeons.png": {
+		"ft": 32768,
+		"iS": 1896277,
+		"oA": 0,
+		"oAP": "/img/hero/whypigeons.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -168,6 +359,81 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/scss/sections/_breeds.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/sections/_breeds.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/sections/_facts.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/sections/_facts.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/sections/_famous.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/sections/_famous.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/sections/_hero.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/sections/_hero.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/sections/_intelligence.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "/scss/sections/_intelligence.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"/scss/styles.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/scss/styles-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/scss/styles.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -188,7 +454,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 583291970.81443405,
-	"displayValue": "1. Template Dev Folder",
+	"displayValue": "dev",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-leo",
 	"iconImageWasSetByUser": 0
